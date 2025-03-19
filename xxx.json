@@ -1,0 +1,13 @@
+{
+    "inference_id":"f84e85ea-5fb9-416a-844d-313dc42d1b1b",
+    "time":0.29978152900002897,
+    "image":{"width":1016,"height":682},
+    "predictions":[
+        {
+            "class":"10",
+            "class_id":10,
+            "confidence":0.693
+        }
+    ],
+    "top":"10",
+    "confidence":0.693}
