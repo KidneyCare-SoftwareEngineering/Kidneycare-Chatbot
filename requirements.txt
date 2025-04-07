@@ -1,0 +1,12 @@
+langchain
+langchain-ollama
+langchain-community
+chromadb
+fastapi
+nest-asyncio
+pyngrok
+uvicorn
+line-bot-sdk
+python-dotenv
+python-multipart
+requests
